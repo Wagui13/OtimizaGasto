@@ -1,2 +1,2 @@
 # OtimizaGasto
-Projeto Otimização de Gastos construído em Java, turma de programação curso Oracle - Gerando Falcões. 
+Autores: Giovanna, Guilherme Carvalho, Joe Nicolas, Mariana Moreira, Nourrant Ferreira, Wagner Cardoso.
